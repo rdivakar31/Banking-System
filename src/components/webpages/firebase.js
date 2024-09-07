@@ -1,7 +1,7 @@
 import firebase from "firebase/app";
 import "firebase/firestore";
 const firebaseConfig = {
-    apiKey: "AIzaSyAvGtymTc72Bihzu0Qb18yW10vCY9ZZL5Q",
+   
     authDomain: "bankingapp-18c5a.firebaseapp.com",
     projectId: "bankingapp-18c5a",
     storageBucket: "bankingapp-18c5a.appspot.com",
